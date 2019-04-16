@@ -10,6 +10,7 @@ export default {
     ko: '마법사',
     pt: 'Mago',
     nl: 'Magiër'
+    it: 'Mage'
   },
   // Class description, visible during character creation
   description: {
@@ -22,5 +23,6 @@ export default {
     ko: '마법사는 매우 강한 AOE 공격을하며 동시에 얼음 마법으로 적의 속도를 늦추는 유틸리티를 제공합니다.',
     pt: 'Os magos causam danos muito pesados em grande escala na Área de Efeito, ao mesmo tempo que também fornecem utilidade através da diminuição da velocidade dos alvos com a sua magia baseada em gelo.',
     nl: 'Magiërs geven zeer zware, grootschalige schade aan het gebied van het effect aan te pakken, terwijl ze ook het nut van het afremmen van doelen met hun op ijs gebaseerde magie vergroten.'
+    it: 'I maghi infliggono danni di Area of Effect molto pesanti su larga scala, fornendo anche utilità attraverso il rallentamento degli obiettivi con la loro magia basata sul ghiaccio.'
   }
 }
