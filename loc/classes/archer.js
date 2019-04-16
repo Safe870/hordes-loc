@@ -10,6 +10,7 @@ export default {
     fr: 'Archer',
     pt: 'Arqueiro',
     nl: 'Boogschutter'
+    pl: 'Łucznik'
   },
   // Class description, visible during character creation
   description: {
@@ -22,5 +23,6 @@ export default {
     fr: 'Les archers infligent des dégâts élevés sur une cible précise et des dégâts de zone importants. Un bon archer garde toujours ses distances et élimine ses ennemis de loin.',
     pt: 'Arqueiros causam danos altos a um único alvo e danos na Área de Efeito. Um bom arqueiro sempre manterá sua distância e snipe inimigos de longe.',
     nl: 'Boogschutters groot enkel doelschade en barstenschade aan het gebied van het effect toe. Een goede boogschutter zal altijd afstand houden en vijanden uit de verte vernietigen.'
+    pl: 'Łucznicy zadają wysokie obrażenia pojedynczego celu i zadają obrażenia obszarowe efektu. Dobry łucznik zawsze będzie trzymał dystans i strzelał do wrogów z daleka'
   }
 }
