@@ -11,6 +11,7 @@ export default {
     ko: '전사',
     pt: 'Guerreiro',
     nl: 'Krijger'
+    zh: '战士'
   },
   // Class description, visible during character creation
   description: {
@@ -24,5 +25,6 @@ export default {
     ko: '전사들은 장비 (방패)와 강력한 방어 숙련자를 통해 높은 방어력을 가짐으로써 다른 클래스보다 더 많은 몬스터를 견딜수 있습니다.',
     pt: 'Os guerreiros são construídos para aquecer mais monstros do que qualquer outra classe, tendo alta defesa através de equipamentos (escudos) e fortes buffs defensivos.',
     nl: 'Krijgers zijn gebouwd nemenmeer schade dan enige andere klasse door het hebben van hoge verdediging door middel van apparatuur (schilden) en sterke defensieve status.'
+    zh: '通过装备（盾牌）和强大的防守增益装备，通过高级防御装备（勇士队）来制造勇士队比其他任何级别都更多的怪物'
   }
 }
